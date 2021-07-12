@@ -8,7 +8,6 @@
 * Talks to IEX API to get real-time stock prices
 * Includes dashboard that allows users to change their password and add unlimited cash to their account $.$
 
-*Enjoy!*
 
 **Dependencies**
 * Flask *(pip install flask)*
